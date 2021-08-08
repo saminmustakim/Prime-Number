@@ -7,7 +7,7 @@ DESCRIPTION = 'Prime Number'
 LONG_DESCRIPTION = 'A package for defining prime number.'
 
 setup(
-    name="primenumber",
+    name="prime_number_python",
     version=VERSION,
     author="SaminMustakim",
     author_email="saminshamima@gmail.com",
