@@ -14,7 +14,7 @@ setup(
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
-    url = "https://github.com/saminmustakim/Prime-Number",
+    project_url = "https://github.com/saminmustakim/Prime-Number",
     packages=find_packages(),
     install_requires=[],
     keywords=['prime', 'math', 'mathematics', 'python tutorial', 'samin mustakim', 'prime number'],
