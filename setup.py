@@ -7,7 +7,7 @@ DESCRIPTION = 'Prime Number'
 LONG_DESCRIPTION = 'A package for defining prime number.'
 
 setup(
-    name="prime_number",
+    name="primenumber",
     version=VERSION,
     author="SaminMustakim",
     author_email="saminshamima@gmail.com",
